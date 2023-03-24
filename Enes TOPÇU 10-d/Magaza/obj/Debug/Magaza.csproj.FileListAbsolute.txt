@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Magaza\Magaza\bin\Debug\Magaza.exe.config
+C:\Users\Administrator\Desktop\Magaza\Magaza\bin\Debug\Magaza.exe
+C:\Users\Administrator\Desktop\Magaza\Magaza\bin\Debug\Magaza.pdb
+C:\Users\Administrator\Desktop\Magaza\Magaza\obj\Debug\Magaza.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Magaza\Magaza\obj\Debug\Magaza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Magaza\Magaza\obj\Debug\Magaza.Magaza.resources
+C:\Users\Administrator\Desktop\Magaza\Magaza\obj\Debug\Magaza.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Magaza\Magaza\obj\Debug\Magaza.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Magaza\Magaza\obj\Debug\Magaza.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Magaza\Magaza\obj\Debug\Magaza.exe
+C:\Users\Administrator\Desktop\Magaza\Magaza\obj\Debug\Magaza.pdb
+C:\Users\Administrator\Desktop\Magaza\Magaza\obj\Debug\Magaza.Form2.resources
